@@ -1,0 +1,5 @@
+
+AppVeyorTestWeb/obj/*
+AppVeyorTestWeb/bin/*
+.vs/*
+.vs/AppVeyorTestWeb/v15/.suo
