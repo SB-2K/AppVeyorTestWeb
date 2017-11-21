@@ -12,7 +12,7 @@ namespace Test
         {
             EntityService service = new EntityService();
             Entity entity = service.GetEntity(1);
-            Assert.Equals(entity.EntityID, 1);
+            Assert.IsNotNull(entity);
         }
     }
 }
