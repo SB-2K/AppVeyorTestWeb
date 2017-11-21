@@ -12,3 +12,11 @@ platform: Any CPU
 
 # build Configuration, i.e. Debug, Release, etc.
 configuration: Release
+
+build:
+  project: AppVeyorTestWeb.sln      # path to Visual Studio solution or project
+  publish_wap_xcopy: true         # package Web Application Projects (WAP) for XCopy deployment
+
+
+  # MSBuild verbosity level
+  verbosity: detailed
