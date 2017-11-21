@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVeyorTestWeb", "AppVeyorTestWeb\AppVeyorTestWeb.csproj", "{BB86F33C-9C22-4909-85DA-5F6814465E19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{500229BD-36BD-4951-8A34-19D32D443FA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB86F33C-9C22-4909-85DA-5F6814465E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB86F33C-9C22-4909-85DA-5F6814465E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB86F33C-9C22-4909-85DA-5F6814465E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500229BD-36BD-4951-8A34-19D32D443FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500229BD-36BD-4951-8A34-19D32D443FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500229BD-36BD-4951-8A34-19D32D443FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500229BD-36BD-4951-8A34-19D32D443FA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
